@@ -1,0 +1,16 @@
+#formulario{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 300px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+#boton{
+    margin-top: 20px;
+}
+
+#nomPue{
+    margin-top: 20px;
+}

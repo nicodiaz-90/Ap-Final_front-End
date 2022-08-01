@@ -1,0 +1,22 @@
+.row{
+    padding: 15px;
+    background-color: #7e00ff;
+
+    /*
+    Con esta linea se soluciona el margen que queda del lado derecho
+    */
+    margin: 0px 0px 3px 0px;
+    
+    
+
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#etiquetaNombre{
+    font-weight: bold;
+    font-size: 18px;
+}

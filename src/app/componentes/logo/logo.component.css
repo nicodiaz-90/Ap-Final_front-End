@@ -1,0 +1,37 @@
+
+/*
+#logoAP{
+    width: 150px;
+}
+
+#logoInti{
+    width: 250px;
+}
+
+*/
+
+.row{
+    margin: 0px 0px 0px 0px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logoAP{
+    width: 150px;
+}
+
+img{
+    width: 50px;
+}
+
+#logoInti{
+    width: 250px;
+}
+
+.redes img{
+    margin: 0.5em;
+}
